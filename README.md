@@ -1,4 +1,10 @@
-#  👋 Jaye here!
+#  Jaye here! 👋 
+
+## Just Random Things
+
+🚧 This is the place where I break stuff, learn from it, and then break it again. Why? Because that’s how we grow, right? 😎
+
+> **if you see something that’s half-done or totally broken, don’t worry—it's just part of the process.**
 
 
 ### 🧠 Let's Connect!
